@@ -1,6 +1,6 @@
 # Authorship Attribution in Russian with New High-Performing and Fully Interpretable Morpho-Syntactic Features
 
-This project contain implementation the system, proposed in the "Authorship Attribution in Russian with New High-Performing and Fully Interpretable Morpho-Syntactic Features" (E. Pimonova, O. Durandin, A. Malafeev), and presented in the AIST-2019 Conference
+This project contain implementation the system, proposed in the "Authorship Attribution in Russian with New High-Performing and Fully Interpretable Morpho-Syntactic Features" (E. Pimonova, O. Durandin, A. Malafeev), and will be presented in the AIST-2019 Conference 17-19 July 2019.
 
 Structure of project:
 * Texts should be placed into "Texts" (we didn't shared this folder due to licence restrictions).
